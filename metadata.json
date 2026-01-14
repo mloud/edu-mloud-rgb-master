@@ -1,0 +1,5 @@
+{
+  "name": "RGB Master - Učební pomůcka",
+  "description": "Interaktivní aplikace pro výuku RGB kódování barev. Žáci vybarvují obrázek zadáváním přesných číselných hodnot červené, zelené a modré složky.",
+  "requestFramePermissions": []
+}
